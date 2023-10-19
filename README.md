@@ -6,8 +6,7 @@
 ##### proficient in harnessing the power of Django and React, complemented by a rich repertoire of other cutting-edge stacks. Passionate about designing and implementing robust, user-centric applications that seamlessly integrate functionality and aesthetics. Leveraging a deep understanding of frontend and backend technologies to deliver dynamic solutions that drive user engagement and business growth. Continuously exploring new technologies to stay at the forefront of innovation, while consistently delivering high-quality code and fostering collaborative development environments. Bringing a holistic perspective to software development that transforms ideas into exceptional digital experiences.
 
 - 🔭 I’m currently working on developing web Applications.
-- 🌱 I’m currently learning Artificial intelligence.
-- :handshake: any freelance work? do reach [Email](afzaltwenty.98@gmail.com)
+- 🌱 I’m learning Artificial intelligence and Machine Learning.
 <!--
 **Afzal-2098/Afzal-2098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
